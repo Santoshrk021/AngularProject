@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "Employee_Name": "Raj",
+      "Email": "rajsr234@gmail.com",
+      "Phone_no": 9876545465,
+      "id": "e760"
+    },
+    {
+      "id": "c27a",
+      "Employee_Name": "John",
+      "Email": "johnk12@gmail.com",
+      "Phone_no": 123654789
+    },
+    {
+      "id": "660a",
+      "Employee_Name": "Canady",
+      "Email": "canonrjk176@gmail.com",
+      "Phone_no": 3214567856
+    }
+  ]
+}
